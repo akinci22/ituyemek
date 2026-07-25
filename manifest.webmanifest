@@ -1,0 +1,17 @@
+{
+  "name": "İTÜ Yemek & Kalori",
+  "short_name": "İTÜ Yemek",
+  "description": "İTÜ yemekhane menüsü + kalori, makro, su ve ilerleme takibi. İTÜ'nün resmi uygulaması değildir.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e2338",
+  "theme_color": "#14304f",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
